@@ -1,9 +1,0 @@
-Q 1 :  1 / 4 passed | score: 3
-Q 2 :  0 / 5 passed | score: 0
-Q 3 :  9 / 10 passed | score: 18
-Q 4 :  13 / 25 passed | score: 10
-Q 5 :  8 / 9 passed | score: 17
------------------------------------------
-Your total score of coding section: 48.0
------------------------------------------
-Fri Mar  8 16:06:01 PST 2024
