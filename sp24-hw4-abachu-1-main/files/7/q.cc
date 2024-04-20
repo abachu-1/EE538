@@ -24,10 +24,10 @@ std::vector<int> DFS(int s, std::map<int, std::vector<int>> &adjList) {
         stack.pop();
         visitedNodes.push_back(current);
 
-        for (int neighbor : adjList[current]) {
-            if (visited.find(neighbor) == visited.end()) {
-                stack.push(neighbor);
-                visited.insert(neighbor);
+        for (int n : adjList[current]) {
+            if (visited.find(n) == visited.end()) {
+                stack.push(n);
+                visited.insert(n);
             }
         }
     }
